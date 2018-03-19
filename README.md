@@ -1,7 +1,7 @@
 # Simple Chinese Character recognition and localization
 
 ## Overview
-This project is collaboration with [Shu-Yu, Li](https://github.com/ShuYu4158). The goal of this project is to recognize and localize the multiple chinese characters from one to ten on an image(from webcam), and then we can change their font from our "font" dataset. We collect some hand-writing and computer font chinese characters from one to ten in order to train a SVM model to recognize characters. Besides, we also design an algorithm to localize the characters position. Then we can use above to implement Simple Chinese Character recognition and localization. 
+This project is collaboration with [Ching-Ju-Henry](https://github.com/Ching-Ju-Henry). The goal of this project is to recognize and localize the multiple chinese characters from one to ten on an image(from webcam), and then we can change their font from our "font" dataset. We collect some hand-writing and computer font chinese characters from one to ten in order to train a SVM model to recognize characters. Besides, we also design an algorithm to localize the characters position. Then we can use above to implement Simple Chinese Character recognition and localization. 
 
 ## Demo
 ### Dataset
